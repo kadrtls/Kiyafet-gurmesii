@@ -1,2 +1,2 @@
+![Business Model Canvas](businessModelCanvas.png)
 
-![Uploading businessModelCanvas.png…]()
